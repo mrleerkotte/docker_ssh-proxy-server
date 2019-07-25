@@ -1,8 +1,8 @@
 # ssh-proxy-server
-This image allows you to easily run a ssh server server in your docker
+This image allows you to easily run a ssh server in your docker
 infrastructure to use as a ssh proxy. Allowing you to access any service
 connected to the same docker network(s) as this proxy container without having 
-to expose them directly.
+to expose those services directly.
 
 ## usage
 ### docker run
